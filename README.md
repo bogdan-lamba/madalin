@@ -1,4 +1,4 @@
-# madalin
+# pentru madalin
 preview
 
 TODO:
